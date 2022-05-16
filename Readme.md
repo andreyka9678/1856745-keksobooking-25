@@ -3,7 +3,7 @@
 * Студент: [Andrey Volkov](https://up.htmlacademy.ru/javascript/25/user/1856745).
 * Наставник: [Андрей Ефимов](https://up.htmlacademy.ru/javascript/25/user/367335).
 
-[Опубликованная версия](ttps://andreyka9678.github.io/keksobooking-25/)
+[Опубликованная версия](https://andreyka9678.github.io/keksobooking-25/)
 ---
 
 
